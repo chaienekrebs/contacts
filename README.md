@@ -65,6 +65,9 @@
 - Ao adicionar um Tipo de Contato ter a opção de definir uma máscara padrão, onde ao inserir um contato daquele tipo faça tal validação. Ex: Telefone, e-mail...
 - Front-End
 
+## Melhorias
+- Retornar o id ao cadastrar
+
 # Sobre o Projeto
 ## Stack
 - .Net 6
